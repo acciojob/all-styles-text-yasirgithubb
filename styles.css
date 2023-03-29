@@ -1,10 +1,12 @@
 div{
 	background-color: purple;
+	
 	color: white;
     
-    font-size: 20px;
+    font-size:20px;
     width: 200px;
     border-color: green;
     border-width: 5px;
     border-left-style: solid; 
+	padding: 10px;
 }
