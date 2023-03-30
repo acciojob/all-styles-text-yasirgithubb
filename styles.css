@@ -1,12 +1,12 @@
 u{
-	background-color: purple;
+	background-color:rgb(128, 0, 128);
 	
-	color: white;
+	color: rgb(255, 255, 255);
     
     font-size:20px;
     width: 200px;
-    border-color: green;
-    border-width: 5px;
-    border-left-style: solid; 
+    border-color:rgb(0, 128, 0);
+    border-left-width: 5px;
+    border-left-style: solid;
 	padding: 10px;
 }
