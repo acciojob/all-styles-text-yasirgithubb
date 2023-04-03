@@ -2,13 +2,12 @@
 .container {
 width: 200px;
 background-color: purple;
+	border-left: 5px solid green;
 
 }
 
 /* Add left border to the left side div */
-.left {
-border-left: 5px solid green;
-}
+
 
 /* Set padding and font size for all div elements */
 div {
@@ -18,5 +17,5 @@ font-size: 20px;
 
 /* Change heading color to white */
 h1{
-	
+	color: white;
 }
