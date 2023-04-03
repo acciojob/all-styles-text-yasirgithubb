@@ -1,12 +1,9 @@
-u{
-	background-color:rgb(128, 0, 128);
-	
-	color: rgb(255, 255, 255);
-    
-    font-size:20px;
-    width: 200px;
-    border-color:rgb(0, 128, 0);
-    border-left-width: 5px;
-    border-left-style: solid;
+.container{
+	width: 200px;
+	background-color: purple;
+	color:white;
 	padding: 10px;
+	font-size: 20px;
+	border-left: solid green;
+    border-width: 5px;
 }
